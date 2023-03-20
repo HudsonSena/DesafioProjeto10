@@ -1,6 +1,6 @@
 # "IMC"
 
-![preview](./resultadoIMC.png) ![preview](./calculoIMC.png)
+![preview](./calculoIMC.png) ![preview](./resultadoIMC.png)
 
 Project building from "Rocktseat" classes.
 
